@@ -1,5 +1,5 @@
 FactoryGirl.define do
   factory :dragon do
-    name "Trogdor"
+    name "Balerion"
   end
 end
